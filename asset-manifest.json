@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a1a3c6f0.chunk.css",
+    "main.js": "/static/js/main.e40aaa1f.chunk.js",
+    "main.js.map": "/static/js/main.e40aaa1f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.52a97a19.js",
+    "runtime-main.js.map": "/static/js/runtime-main.52a97a19.js.map",
+    "static/js/2.572f81a6.chunk.js": "/static/js/2.572f81a6.chunk.js",
+    "static/js/2.572f81a6.chunk.js.map": "/static/js/2.572f81a6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a1a3c6f0.chunk.css.map": "/static/css/main.a1a3c6f0.chunk.css.map",
+    "static/js/2.572f81a6.chunk.js.LICENSE.txt": "/static/js/2.572f81a6.chunk.js.LICENSE.txt",
+    "static/media/crown.453eeb7b.svg": "/static/media/crown.453eeb7b.svg",
+    "static/media/darkorlight.style.scss": "/static/media/light.9ba123db.png",
+    "static/media/downArrow.57d9595a.svg": "/static/media/downArrow.57d9595a.svg",
+    "static/media/shopping-bag.ced24d54.svg": "/static/media/shopping-bag.ced24d54.svg",
+    "static/media/upArrow.124003ca.svg": "/static/media/upArrow.124003ca.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52a97a19.js",
+    "static/js/2.572f81a6.chunk.js",
+    "static/css/main.a1a3c6f0.chunk.css",
+    "static/js/main.e40aaa1f.chunk.js"
+  ]
+}
